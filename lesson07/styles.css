@@ -292,7 +292,7 @@ main {
 .footer {
   background-image: url(images/leatherback.jpg);
   background-repeat: no-repeat; /* Prevent image repeating */
-  background-position: center top; /* Keep image centered at the top */
+  background-position: center 80%; /* to make sure the cute little turtle doesn't get awkwardly cropped */
   background-attachment: fixed; /* Keep background in place on larger screens */
   background-size: cover; /* Make image cover entire background area */
   padding: 3rem 1.5rem;
